@@ -1,0 +1,1 @@
+# by-using-file-hamdling-method-solve-the-divisibilites-rules
